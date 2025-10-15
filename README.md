@@ -1,4 +1,4 @@
-# Sandip's 2D Interactive Portfolio
+# 2D Interactive Portfolio
 
 ![2D Portfolio Screenshot](image.png)
 
