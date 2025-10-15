@@ -6,6 +6,16 @@ Welcome to my 2D interactive portfolio. This project is a creative, game-like sh
 
 **[Live Demo](https://sandip387.github.io/2D-PORTFOLIO/)**
 
+---
+
+### ✨ My Main Portfolio
+
+While this 2D project showcases my creativity and game development skills, my main professional portfolio is where you can find detailed information about my full-stack projects, technical skills, and professional experience.
+
+**[Visit My Main Portfolio at sandipshrestha.info.np](https://sandipshrestha.info.np/)**
+
+---
+
 ## About This Project
 
 This portfolio is a top-down 2D world where you can walk around and interact with different objects in my "virtual room." Each object provides a piece of information about me, my skills, my projects, or my contact details.
