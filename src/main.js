@@ -1,7 +1,6 @@
-//Forcing a new deployment trigger
-import spritesheetURL from "./spritesheet.png";
-import mapURL from "./map.json?url";
-import mapSpriteURL from "./map.png";
+import spritesheetURL from "/spritesheet.png";
+import mapURL from "/map.json?url";
+import mapSpriteURL from "/map.png";
 import { dialogueData, scaleFactor } from "./constants";
 import { k } from "./kaboomCtx";
 import { displayDialogue, setCamScale } from "./utils";
